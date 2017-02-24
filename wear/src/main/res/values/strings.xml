@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Badger and Friends</string>
+    <string name="my_analog_name">Badger and Friends</string>
+    <string name="config_name">Watch face configuration</string>
+    <string name="config_title">Customize</string>
+
+    <string name="title_activity_background_options">BackgroundOptions</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+
+    <string name="config_1">Character</string>
+    <string name="config_2">Background</string>
+    <string name="config_3">Show Date</string>
+
+    <string-array name="config_array">
+        <item>@string/config_1</item>
+        <item>@string/config_2</item>
+        <item>@string/config_3</item>
+    </string-array>
+
+
+    <string-array name="image_array">
+        <item>@string/character_1</item>
+        <item>@string/character_2</item>
+    </string-array>
+
+    <string name="character_1">pom</string>
+    <string name="character_2">badger</string>
+
+    <string name="title_activity_background_image_config">BackgroundImageConfigActivity</string>
+    <string name="character_config_title">Character</string>
+
+</resources>
